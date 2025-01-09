@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Construction Engineering and Management, Georgia Institute of Technology, 2026 (expected)
+* M.S. in Computational Science and Engineering, Georgia Institute of Technology, 2025 (expected)
+* M.S. in Computer Science, University of Texas at Austin, 2025 (expected)
+* M.S. in Environmental Studies, University of Tokyo, 2018
+* B.S. in Civl Engineering, Zhejiang University, 2016
 
 Work experience
 ======
