@@ -41,6 +41,7 @@ author_profile: true
 **The University of Tokyo (09/2016-08/2018)**
 
 - M.S. in Environmental Studies, Department of Socio-Cultural Environmental Studies [[link](https://sbk.k.u-tokyo.ac.jp/)]
+- Thesis: Study on Diversification of Production System in Housing Insulation Retrofit : Mainly Paying Attention to Window Focus Renovator [[link](https://repository.dl.itc.u-tokyo.ac.jp/records/51546)]
 - Academic Advisor: Prof. Tsuyoshi. Seike [[link](https://seikelab.k.u-tokyo.ac.jp/)]
 
 **Hokkaido University (10/2014-08/2015)**
@@ -50,7 +51,8 @@ author_profile: true
 
 **Zhejiang University (09/2011-07/2016)**
 
-- B.Eng.in Civil Engineering, School of Civil Engineering and Architecture  [[link](http://ee.zju.edu.cn/)]
+- B.Eng. in Civil Engineering, School of Civil Engineering and Architecture  [[link](http://ee.zju.edu.cn/)]
+- Thesis: Facility Management Based on BIM
 - Academic Advisor: Prof. Sheng Bao [[link](https://person.zju.edu.cn/en/0008402)]
 
 
