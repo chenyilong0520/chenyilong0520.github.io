@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -22,7 +22,7 @@ repository               : "chenyilong0520.github.io"
 author:
   # Biographic information
   avatar           : "IMG_20230323_174547.jpg"
-  name             : "Yilong Chen"
+  name             : "神に代わって風景を作ることを許された唯一の人"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Robotics & Intelligent Construction Automation Lab (RICAL) at Georgia Tech"
   location         : "Atlanta, GA"
