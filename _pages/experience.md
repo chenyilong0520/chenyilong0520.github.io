@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "Experience"
 permalink: /experience/index.html
@@ -34,26 +34,26 @@ author_profile: true
 - M.S. in Computational Science and Engineering, College of Computing [[link](https://www.cc.gatech.edu/)]
 - Academic Advisor: Prof. Yong K. Cho [[link](https://rical.ce.gatech.edu/)]
 
-**The Universtiy of Texas at Austin (09/2021-12/2025(expected))**
+**The University of Texas at Austin (09/2021-12/2025(expected))**
 
-- M.S. in Computater Science, College of Computing [[link](https://www.cs.utexas.edu/)]
+- M.S. in Computer Science, College of Computing [[link](https://www.cs.utexas.edu/)]
 
 **The University of Tokyo (09/2016-08/2018)**
 
 - M.S. in Environmental Studies, Department of Socio-Cultural Environmental Studies [[link](https://sbk.k.u-tokyo.ac.jp/)]
 - Thesis: Study on Diversification of Production System in Housing Insulation Retrofit : Mainly Paying Attention to Window Focus Renovator [[link](https://repository.dl.itc.u-tokyo.ac.jp/records/51546)]
-- Academic Advisor: Prof. Tsuyoshi. Seike [[link](https://seikelab.k.u-tokyo.ac.jp/)]
+- Academic Advisor: Prof. Tsuyoshi. Seike (清家剛) [[link](https://seikelab.k.u-tokyo.ac.jp/)]
 
 **Hokkaido University (10/2014-08/2015)**
 
 - Hokkaido University Short-Term Exchange Program (HUSTEP), School of Engineering  [[link](https://www.eng.hokudai.ac.jp/course/?c=4030)]
-- Academic Advisor: Prof. Takeo Ozawa [[link](https://5ko201604.wixsite.com/------------architec/)]
+- Academic Advisor: Prof. Takeo Ozawa　(小沢丈夫) [[link](https://5ko201604.wixsite.com/------------architec/)]
 
 **Zhejiang University (09/2011-07/2016)**
 
 - B.Eng. in Civil Engineering, School of Civil Engineering and Architecture  [[link](http://ee.zju.edu.cn/)]
 - Thesis: Facility Management Based on BIM
-- Academic Advisor: Prof. Sheng Bao [[link](https://person.zju.edu.cn/en/0008402)]
+- Academic Advisor: Prof. Sheng Bao (包胜) [[link](https://person.zju.edu.cn/en/0008402)]
 
 
 
@@ -74,5 +74,5 @@ author_profile: true
 
 # Community Contribution
 
-- Provide Medicare Guiding Service in Shaoyifu Hospital in Hangzhou
+- Provide medicare guiding service in Shaoyifu Hospital in Hangzhou
 - Participate in a team supporting education in rural area of Huanghu Town
