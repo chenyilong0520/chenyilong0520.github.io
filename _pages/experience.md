@@ -47,7 +47,7 @@ author_profile: true
 **Hokkaido University (10/2014-08/2015)**
 
 - Hokkaido University Short-Term Exchange Program (HUSTEP), School of Engineering  [[link](https://www.eng.hokudai.ac.jp/course/?c=4030)]
-- Academic Advisor: Prof. Takeo Ozawa　(小沢丈夫) [[link](https://5ko201604.wixsite.com/------------architec/)]
+- Academic Advisor: Prof. Takeo Ozawa (小沢丈夫) [[link](https://5ko201604.wixsite.com/------------architec/)]
 
 **Zhejiang University (09/2011-07/2016)**
 
