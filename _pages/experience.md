@@ -12,11 +12,11 @@ author_profile: true
 - Graduate Teaching Assistant, College of Computing [[link](https://omscs.gatech.edu/news/ta-spotlight-yilong-chen)]
 - CS7632 Game AI [[link](https://omscs.gatech.edu/cs-7632-game-ai)]
 
-**Applied Technology (応用技術株式会社) (01/2020-07/2024)**
+**Applied Technology** (応用技術株式会社) **(01/2020-07/2024)**
 
 - System Engineer, Solution Headquarters [[link](https://www.apptec.co.jp/solution/)]
 
-**Jun Sato Structural Engineers (佐藤淳構造設計事務所) (11/2018-12/2019)**
+**Jun Sato Structural Engineers** (佐藤淳構造設計事務所) **(11/2018-12/2019)**
 
 - Structural Design Intern, Azabu Office [[link](https://junsato.k.u-tokyo.ac.jp/)]
 
@@ -36,7 +36,7 @@ author_profile: true
 
 **The University of Texas at Austin (09/2021-12/2025(expected))**
 
-- M.S. in Computer Science, College of Computing [[link](https://www.cs.utexas.edu/)]
+- M.S. in Computer Science, College of Natural Sciences [[link](https://www.cs.utexas.edu/)]
 
 **The University of Tokyo (09/2016-08/2018)**
 
