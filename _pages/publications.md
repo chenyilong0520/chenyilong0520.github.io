@@ -7,7 +7,7 @@ author_profile: true
 
 ## Submitted Papers
 
-- **Yilong Chen**, Huili Huang, Yong K Cho, "[Dynamic Object Detection and Distance Estimation in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model](link)," *2025 IEEE International Conference on Robotics and Automation (ICRA)*, 2025. [[PDF](local_file)]
+- **Yilong Chen**, Yong K Cho, "[Online Dynamic Object Detection and Tracking in Construction using LiDAR SLAM](link)," *Journal of Computing in Civil Eningeering*, 2025. [[PDF](local_file)]
 - **Yilong Chen**, Yu Du, Xiaoke Zhang, Yong K Cho, "[An Observation Feature Study of Robot Imitation Learning for Autonomous Social Navigation on Construction Sites](link)," *2025 International Conference on Computing in Civil Engineering (i3CE)*, 2025. [[PDF](local_file)]
 - Jinhee Yu, Monika Jayakumar, **Yilong Chen**, Yong Cho, Jingdao Chen, "[Self-supervised Learning with LiDAR-Camera Fusion for Construction Site Traversability Estimation](link)," *2025 International Conference on Computing in Civil Engineering (i3CE)*, 2025. [[PDF](local_file)]
 - Yarovoi Andrew, Pengyu Mo, **Yilong Chen**, Yong K Cho, "[Lightweight Organized LiDAR (LOL) SLAM For Complex and Dynamic Environments](link)," *Journal of Computing in Civil Engineering*, 2025. [[PDF](local_file)]
