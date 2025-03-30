@@ -13,7 +13,7 @@ author_profile: true
 
 ## Imitation Learning for Social Navigation
 
-![Edit](/images/imitation_learning_for_social_navigation.jpg){:height="227px" width="350px"}
+![Edit](/images/imitation_learning_for_social_navigation.gif){:height="227px" width="350px"}
 
 ------
 
