@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\gt\\01_course\\93_Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gt\\01_course\\93_Website\\_pages\\softwares.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\softwares.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gt\\01_course\\93_Website\\_pages\\projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gt\\01_course\\93_Website\\_pages\\publications.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\publications.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gt\\01_course\\93_Website\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gt\\01_course\\93_Website\\_pages\\publications.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\publications.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gt\\01_course\\93_Website\\_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,41 +43,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "softwares.md",
-              "DocumentMoniker": "D:\\gt\\01_course\\93_Website\\_pages\\softwares.md",
-              "RelativeDocumentMoniker": "_pages\\softwares.md",
-              "ToolTip": "D:\\gt\\01_course\\93_Website\\_pages\\softwares.md",
-              "RelativeToolTip": "_pages\\softwares.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Title": "projects.md",
+              "DocumentMoniker": "D:\\gt\\01_course\\93_Website\\_pages\\projects.md",
+              "RelativeDocumentMoniker": "_pages\\projects.md",
+              "ToolTip": "D:\\gt\\01_course\\93_Website\\_pages\\projects.md",
+              "RelativeToolTip": "_pages\\projects.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-03-30T03:03:51.955Z",
+              "WhenOpened": "2025-03-31T20:24:13.64Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "about.md",
+              "DocumentMoniker": "D:\\gt\\01_course\\93_Website\\_pages\\about.md",
+              "RelativeDocumentMoniker": "_pages\\about.md",
+              "ToolTip": "D:\\gt\\01_course\\93_Website\\_pages\\about.md",
+              "RelativeToolTip": "_pages\\about.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-31T20:23:18.416Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "publications.md",
-              "DocumentMoniker": "D:\\gt\\01_course\\93_Website\\_pages\\publications.md",
-              "RelativeDocumentMoniker": "_pages\\publications.md",
-              "ToolTip": "D:\\gt\\01_course\\93_Website\\_pages\\publications.md",
-              "RelativeToolTip": "_pages\\publications.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-03-03T06:17:51.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "_config.yml",
               "DocumentMoniker": "D:\\gt\\01_course\\93_Website\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
               "ToolTip": "D:\\gt\\01_course\\93_Website\\_config.yml",
               "RelativeToolTip": "_config.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-22T22:11:35.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T20:22:56.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "publications.md",
+              "DocumentMoniker": "D:\\gt\\01_course\\93_Website\\_pages\\publications.md",
+              "RelativeDocumentMoniker": "_pages\\publications.md",
+              "ToolTip": "D:\\gt\\01_course\\93_Website\\_pages\\publications.md",
+              "RelativeToolTip": "_pages\\publications.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAC+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-03T06:17:51.76Z"
             }
           ]
         }

@@ -17,7 +17,7 @@ author_profile: true
 
 ------
 
-## 360°-Camera and LiDAR Fusion for Dynamic Object Detection
+## Camera and LiDAR Fusion for Dynamic Object Detection
 
 ![Edit](/images/fisheye_camera_and_LiDAR_sensor_fusion.gif){:height="227px" width="700px"}
 
