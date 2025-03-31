@@ -12,4 +12,4 @@ Yilong Chen is an Ph.D student in Robotics & Intelligent Construction Automation
 
 His research interests are in construction automation, computer vision, and robotics. He is working on and looking forward to combining computer science knowledge with building construction know-how to make construction engineering and management more secure, more productive, and more sustainable. He has authored/co-authored 1 SCI journal paper, and 4 conference papers.
 
-Here is Yilong Chen's [CV](local_file).
+Here is Yilong Chen's [CV](/files/CV_YilongChen_202503.pdf).
