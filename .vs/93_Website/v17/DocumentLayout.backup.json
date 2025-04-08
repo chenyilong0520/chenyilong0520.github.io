@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "_pages\\projects.md",
               "ToolTip": "D:\\gt\\01_course\\93_Website\\_pages\\projects.md",
               "RelativeToolTip": "_pages\\projects.md",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-03-31T20:24:13.64Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "_pages\\about.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-03-31T20:23:18.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T20:23:18.416Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "_config.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-03-31T20:22:56.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T20:22:56.081Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "_pages\\publications.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAC+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-03-03T06:17:51.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T06:17:51.76Z"
             }
           ]
         }
