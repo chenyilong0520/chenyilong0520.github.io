@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\gt\\01_course\\93_Website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gt\\01_course\\93_Website\\_pages\\teaching.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\teaching.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gt\\01_course\\93_Website\\_pages\\projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "teaching.md",
+              "DocumentMoniker": "D:\\gt\\01_course\\93_Website\\_pages\\teaching.md",
+              "RelativeDocumentMoniker": "_pages\\teaching.md",
+              "ToolTip": "D:\\gt\\01_course\\93_Website\\_pages\\teaching.md",
+              "RelativeToolTip": "_pages\\teaching.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-08T22:08:58.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "projects.md",
               "DocumentMoniker": "D:\\gt\\01_course\\93_Website\\_pages\\projects.md",
               "RelativeDocumentMoniker": "_pages\\projects.md",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "about.md",
               "DocumentMoniker": "D:\\gt\\01_course\\93_Website\\_pages\\about.md",
               "RelativeDocumentMoniker": "_pages\\about.md",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_config.yml",
               "DocumentMoniker": "D:\\gt\\01_course\\93_Website\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "publications.md",
               "DocumentMoniker": "D:\\gt\\01_course\\93_Website\\_pages\\publications.md",
               "RelativeDocumentMoniker": "_pages\\publications.md",
