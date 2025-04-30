@@ -12,6 +12,10 @@ author_profile: true
 - Graduate Teaching Assistant, College of Computing [[link](https://omscs.gatech.edu/news/ta-spotlight-yilong-chen)]
 - CS7632 Game AI [[link](https://omscs.gatech.edu/cs-7632-game-ai)]
 
+**Manycore Tech (06/2025-07/2025)**
+
+- Geometry Algorithm Engineer, Shanghai Office [[link](https://manycoretech.com/)]
+
 **Applied Technology** (応用技術株式会社) **(01/2020-07/2024)**
 
 - System Engineer, Solution Headquarters [[link](https://www.apptec.co.jp/solution/)]
