@@ -14,7 +14,7 @@ author_profile: true
 
 **Manycore Tech (06/2025-07/2025)**
 
-- Geometry Algorithm Engineer, Shanghai Office [[link](https://manycoretech.com/)]
+- Geometry Algorithm Engineer, Geometry Engine Group [[link](https://manycoretech.com/)]
 
 **Applied Technology** (応用技術株式会社) **(01/2020-07/2024)**
 
