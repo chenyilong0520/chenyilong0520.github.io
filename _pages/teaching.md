@@ -35,5 +35,6 @@ author_profile: true
 
 # Mentoring Experience
 
-- Pengyu Mo, Georgia Tech, ECE Undergraduate Research, 2024 - 2025
+- Hyunjae Sim, Affiliated Researcher, Institute of Advanced Material Processing Technology, Korea, 2025 - 2026
+- Pengyu Mo, ECE Undergraduate Research, Georgia Tech, 2024 - 2025
 
