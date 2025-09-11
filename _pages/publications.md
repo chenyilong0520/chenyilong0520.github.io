@@ -8,6 +8,7 @@ author_profile: true
 ## Submitted Papers
 
 - **Yilong Chen**, Yong K Cho, "[Enhancing Socially Aware Navigtation on Construction Sites using LiDAR and Fisheye Camera](link)," *Journal of Computing in Civil Eningeering*, 2026. [[PDF](local_file)]
+- Jinhee Yu, Monika Jayakumar, **Yilong Chen**, Yong Cho, Jingdao Chen, "[2D-3D Feature Fusion for Construction Site Traversability Estimation with Self-Supervised Learning](link)," *Journal of Computing in Civil Eningeering*, 2026. [[PDF](local_file)]
 - **Yilong Chen**, Yong K Cho, "[Online Dynamic Object Detection and Tracking in Construction using LiDAR SLAM](link)," *Journal of Computing in Civil Eningeering*, 2025. [[PDF](local_file)]
 
 ------
