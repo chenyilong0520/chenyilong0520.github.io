@@ -9,7 +9,6 @@ author_profile: true
 
 - **Yilong Chen**, Yong K Cho, "[Enhancing Socially Aware Navigtation on Construction Sites using LiDAR and Fisheye Camera](link)," *Journal of Computing in Civil Eningeering*, 2026. [[PDF](local_file)]
 - **Yilong Chen**, Yong K Cho, "[Online Dynamic Object Detection and Tracking in Construction using LiDAR SLAM](link)," *Journal of Computing in Civil Eningeering*, 2025. [[PDF](local_file)]
-[comment]:- Yarovoi Andrew, Pengyu Mo, **Yilong Chen**, Yong K Cho, "[Lightweight Organized LiDAR (LOL) SLAM For Complex and Dynamic Environments](link)," *Journal of Computing in Civil Engineering*, 2025. [[PDF](local_file)]
 
 ------
 
