@@ -20,6 +20,7 @@ author_profile: true
 
 # Presentations and Talks
 
+- Dynamics-Aware Robotics Perception and Navigation in Construction, Purdue CCE Seminar, Atlanta, USA, Nov. 21, 2025.
 - Robot Perception and Navigation in Construction, Manycore Tech, Hangzhou, China, July. 29, 2025.
 - Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model, ICRA 2025 Future of Construction Workshop, Atlanta, USA, May. 19, 2025.
 - An Observation Feature Study of Robot Imitation Learning for Autonomous Social Navigation on Construction Sites, ASCE 2025 International Conference on Computing in Civil Engineering (i3CE), New Orleans, USA, May. 13, 2025.
