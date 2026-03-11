@@ -7,14 +7,14 @@ author_profile: true
 
 ## Submitted Papers
 
-- **Yilong Chen**, Yong K Cho, "[Enhancing Socially Aware Construction Robot Navigation through LiDAR-Camera Sensor Fusion and Dynamic Object Tracking](link)," *Journal of Computing in Civil Eningeering*, 2026. [[PDF](local_file)]
+- **Yilong Chen**, Yong K Cho, "[Socially Aware Construction Robot Navigation with a GNN-Enhanced DWA Planner](link)," *2026 International Conference on Computing in Civil Engineering (i3CE)*, 2026. [[PDF](local_file)]
 - Jinhee Yu, Monika Jayakumar, **Yilong Chen**, Yong Cho, Jingdao Chen, "[2D-3D Feature Fusion for Construction Site Traversability Estimation with Self-Supervised Learning](link)," *Journal of Computing in Civil Eningeering*, 2026. [[PDF](local_file)]
 
 ------
 
 ## Journal Papers
 
-- **Yilong Chen**, Yong K Cho, "[Socially Aware Construction Robot Navigation with a GNN-Enhanced DWA Planner](link)," *2026 International Conference on Computing in Civil Engineering (i3CE)*, 2026. [[PDF](local_file)]
+- **Yilong Chen**, Yong K Cho, "[Enhancing Socially Aware Construction Robot Navigation through LiDAR-Camera Sensor Fusion and Dynamic Object Tracking](link)," *Journal of Computing in Civil Eningeering*, 2026. [[PDF](local_file)]
 - Yeseul Kim, **Yilong Chen**, Matthew Gombolay, Yong K Cho, "[Understanding the Effects of Humanlike Robot Motions on Unfocused Human-Robot Interaction](link)," *Advanced Engineering Informatics*, 2025. [[PDF](local_file)]
 - YeSeul Kim, Seongyong Kim, **Yilong Chen**, HyunJin Yang, Seungwoo Kim, Sehoon Ha, Matthew Gombolay, Yonghan Ahn, Yong Kwon Cho, "[Understanding human-robot proxemic norms in construction: How do humans navigate around robots?](https://www.sciencedirect.com/science/article/abs/pii/S0926580524001912)," *Automation in Construction*, 2024. [[PDF](local_file)]
 - Yilan Zhou, Qing Wu, Xingling Xu, Shuaizhong Wang, **Yilong Chen**, "[To the Harmony of Architectural and Structural Design: Interview of Junya ISHIGAMI and Jun SATO Working in Cooperation](https://qikan.cqvip.com/Qikan/Article/Detail?id=7105149436&from=Qikan_Search_Index)," *The Architect*, 2021. [[PDF](local_file)]
