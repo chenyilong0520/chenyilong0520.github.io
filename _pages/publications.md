@@ -7,7 +7,6 @@ author_profile: true
 
 ## Submitted Papers
 
-- **Yilong Chen**, Yong K Cho, "[Socially Aware Construction Robot Navigation with a GNN-Enhanced DWA Planner](link)," *2026 International Conference on Computing in Civil Engineering (i3CE)*, 2026. [[PDF](local_file)]
 - Jinhee Yu, Monika Jayakumar, **Yilong Chen**, Yong Cho, Jingdao Chen, "[2D-3D Feature Fusion for Construction Site Traversability Estimation with Self-Supervised Learning](link)," *Journal of Computing in Civil Eningeering*, 2026. [[PDF](local_file)]
 
 ------
@@ -24,6 +23,7 @@ author_profile: true
 
 ## Conference Papers
 
+- **Yilong Chen**, Yong K Cho, "[Socially Aware Construction Robot Navigation with a GNN-Enhanced DWA Planner](link)," *2026 International Conference on Computing in Civil Engineering (i3CE)*, 2026. [[PDF](local_file)]
 - **Yilong Chen**, Huili Huang, Yong K Cho, "[Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model](link)," *ICRA 2025 Future of Construction Workshop*, 2025. [[PDF](local_file)]
 - **Yilong Chen**, Yu Du, Xiaoke Zhang, Yong K Cho, "[An Observation Feature Study of Robot Imitation Learning for Autonomous Social Navigation on Construction Sites](link)," *2025 International Conference on Computing in Civil Engineering (i3CE)*, 2025. [[PDF](local_file)]
 - Jinhee Yu, Monika Jayakumar, **Yilong Chen**, Yong Cho, Jingdao Chen, "[Self-supervised Learning with LiDAR-Camera Fusion for Construction Site Traversability Estimation](link)," *2025 International Conference on Computing in Civil Engineering (i3CE)*, 2025. [[PDF](local_file)]
