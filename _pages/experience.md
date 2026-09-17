@@ -35,8 +35,11 @@ author_profile: true
 **Georgia Insitute of Technology (05/2022-05/2027(expected))** 
 
 - Ph.D. in Construction Engineering and Management, College of Civil and Environmental Engineering [[link](https://ce.gatech.edu/)]
-- M.S. in Computational Science and Engineering, College of Computing [[link](https://www.cc.gatech.edu/)]
 - Academic Advisor: Prof. Yong K. Cho [[link](https://rical.ce.gatech.edu/)]
+
+**Georgia Insitute of Technology (08/2022-05/2025(expected))** 
+
+- M.S. in Computational Science and Engineering, College of Computing [[link](https://www.cc.gatech.edu/)]
 
 **The University of Texas at Austin (09/2021-12/2025)**
 
