@@ -7,8 +7,9 @@ author_profile: true
 
 ## Submitted Papers
 
-- **Yilong Chen**, Yong Cho, "[Learning Social Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots](link)," *Advanced Engineering Informatics*, 2026. [[PDF](local_file)]
-- Jinhee Yu, Monika Jayakumar, **Yilong Chen**, Yong Cho, Jingdao Chen, "[2D-3D Feature Fusion for Construction Site Traversability Estimation with Self-Supervised Learning](link)," *Journal of Computing in Civil Eningeering*, 2026. [[PDF](local_file)]
+- **Yilong Chen**, Yong Cho, "[4D Construction Scene Graph: A LiDAR-Based Real-Time Scene Representation for Unstructured and Dynamic](link)," *IEEE Robotics and Automation Letters*, 2026. [[PDF](local_file)]
+- **Yilong Chen**, Yong Cho, "[Learning Social Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots](link)," *Automation in Construction*, 2026. [[PDF](local_file)]
+[- Jinhee Yu, Monika Jayakumar, **Yilong Chen**, Yong Cho, Jingdao Chen, "[2D-3D Feature Fusion for Construction Site Traversability Estimation with Self-Supervised Learning](link)," *Journal of Computing in Civil Eningeering*, 2026. [[PDF](local_file)]](url)
 
 ------
 
