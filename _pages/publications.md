@@ -7,7 +7,7 @@ author_profile: true
 
 ## Submitted Papers
 
-- **Yilong Chen**, Yong Cho, "[4D Construction Scene Graph: A LiDAR-Based Real-Time Scene Representation for Unstructured and Dynamic Environments](link)," *IEEE Robotics and Automation Letters*, 2026. [[PDF](local_file)]
+- **Yilong Chen**, Yong Cho, "[T-ConSG: A LiDAR-Based Real-Time Temporal Construction Scene Graph for Unstructured and Dynamic Environments](link)," *IEEE Robotics and Automation Letters*, 2026. [[PDF](local_file)]
 - **Yilong Chen**, Yong Cho, "[Learning Social Path Corrections from Unlabeled Trajectories: A LiDAR-Based Sim-to-Real GNN Framework for Construction Robots](link)," *Automation in Construction*, 2026. [[PDF](local_file)]
 
 ------
