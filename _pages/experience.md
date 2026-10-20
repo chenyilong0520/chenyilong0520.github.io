@@ -32,7 +32,7 @@ author_profile: true
 
 # Education
 
-**Georgia Insitute of Technology (05/2022-05/2027(expected))** 
+**Georgia Insitute of Technology (05/2022-08/2027(expected))** 
 
 - Ph.D. in Construction Engineering and Management, College of Civil and Environmental Engineering [[link](https://ce.gatech.edu/)]
 - Academic Advisor: Prof. Yong K. Cho [[link](https://rical.ce.gatech.edu/)]
